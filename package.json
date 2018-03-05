@@ -1,0 +1,22 @@
+{
+  "name": "test_edge",
+  "version": "1.0.0",
+  "description": "API RESTFul",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriarce10/test_edge.git"
+  },
+  "author": "Adriana Arce",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adriarce10/test_edge/issues"
+  },
+  "homepage": "https://github.com/adriarce10/test_edge#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
